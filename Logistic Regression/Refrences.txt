@@ -1,0 +1,7 @@
+Refrences:
+[1] https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
+[2] https://saedsayad.com/logistic_regression.htm
+[3] https://medium.com/@gryangalario/image-classification-using-logistic-regression-on-the-american-sign-language-mnist-9c6522242ddf
+[4] https://www.kaggle.com/gulsahdemiryurek/image-classification-with-logistic-regression
+[5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6656880/
+[6] https://towardsdatascience.com/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d
